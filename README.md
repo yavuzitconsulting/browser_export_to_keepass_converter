@@ -36,3 +36,6 @@ Find the converted files in the output folder and import them using KeePass's Ge
 This works for Chrome and Firefox imports, the INPUT folder can contain multiple files, it will generate an output file for each input file.
 The output files will have the same name as the input file, with the "keepass_" prefix.
 The tool works completely offline.
+
+IF THE OUTPUT DIRECTORY DOES NOT EXIST FROM THE START, IT WILL BE GENERATED, DON'T BE WORRIED.
+
